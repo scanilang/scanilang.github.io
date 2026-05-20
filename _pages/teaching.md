@@ -8,8 +8,12 @@ nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## University of Minnesota
+- Teaching Assistant, Intermediate Microeconomics (Undergraduate), Fall 2022, Spring 2023
+- Instructor, Introduction to Microeconomics  (Undergraduate), Summer 2023
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+## Howard University
+- Course Leader/Lecturer/Teaching Assistant, Data Analysis and Financial Literacy in R (Undergraduate/Graduate), August 2019 - June 2021
 
-{% include courses.liquid %}
+## Carleton College
+- Grader and Tutor, Calculus I-III, Linear Algebra, Math Structures, September 2016 – Jun 2019
