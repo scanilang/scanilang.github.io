@@ -26,10 +26,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. Candidate in Economics at the [Univesrity of Minnesota](https://cla.umn.edu/economics).
+I am a Ph.D. Candidate in Economics at the [University of Minnesota](https://cla.umn.edu/economics) and a Research Analyst at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/).
 
-Research Interests:
+I will be on the 2026-2027 job market. 
+
+I am working under the supervision of [Mariacristina De Nardi](https://users.nber.org/~denardim/) and [Joseph Mullins](https://www.josephlyonmullins.com/).
+
+#### Research Interests:
 - Household finance
 - Race and inequality
+- Labor Macroeconomics
 
 [LinkedIn](https://www.linkedin.com/in/sara-canilang/)
