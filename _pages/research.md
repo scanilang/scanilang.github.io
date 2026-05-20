@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: 
 permalink: /research/
 description: A growing collection of your cool projects.
 nav: true
@@ -11,9 +11,9 @@ horizontal: false
 
 ## Working Papers
 
-### The Consequences of Debt and the Tradeoff of Bankruptcy 
+##### The Consequences of Debt and the Tradeoff of Bankruptcy 
 
-### Racial Differences in Family Transfers: Positive vs Negative Social Tax
+##### Racial Differences in Family Transfers: Positive vs Negative Social Tax
 
 ## Works in Progress
 
