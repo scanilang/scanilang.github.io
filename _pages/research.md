@@ -19,8 +19,9 @@ Bankruptcy is designed as a race-neutral financial fresh start, yet significant 
 
 Racial differences in intervivos transfers between family members, including differences in timing, persistence, direction, and magnitude, have been considered a significant contributor to the racial wealth gap. Middle  and upper-income Black households are more likely than their white counterparts to have extended family members in poverty, leading to what sociologists call the "Black Tax": successful Black households assume financial responsibility for relatives who more frequently face negative shocks. In this paper, I develop a life-cycle consumption and savings model in which households face idiosyncratic shocks to both intervivos transfers and parental education transfers, and make an endogenous college enrollment decision at age 18. I use data from the Panel Study of Income Dynamics (PSID) and the 2013 Family Rosters and Transfers supplement to calibrate race-specific transfer functions for Black and white households, capturing how the probability and magnitude of parental education support and intervivos transfers vary with age, income, wealth, family background, and education. The model features two channels through which racial differences in family transfers can affect wealth accumulation. The first is a direct channel through differences in the flow of resources given and received over the life cycle. The second is an indirect channel through college enrollment incentives, which are shaped both by differences in parental education transfers and by the expectation of future transfer obligations. To assess the importance of these disparities, I simulate a counterfactual in which Black households receive the same parental education transfers as white households. 
 
-##### Fed Speak Indicators
 ---
 ## Works in Progress
+
+##### Fed Speak Indicators
 
 
