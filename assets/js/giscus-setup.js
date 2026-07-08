@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "scanilang/scanilang.github.io",
+    "data-repo": "scanilang/saracanilang.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
