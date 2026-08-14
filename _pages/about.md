@@ -30,7 +30,7 @@ I am a Ph.D. Candidate in Economics at the [University of Minnesota](https://cla
 
 I will be on the 2026-2027 job market. 
 
-I am working under the supervision of [Mariacristina De Nardi](https://users.nber.org/~denardim/) and [Joseph Mullins](https://www.josephlyonmullins.com/).
+I am working under the supervision of [Mariacristina De Nardi](https://users.nber.org/~denardim/), [Joseph Mullins](https://www.josephlyonmullins.com/), and [Amanda Michaud](https://ammichau.github.io/).
 
 #### Research Interests:
 - Household finance
