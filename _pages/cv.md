@@ -8,4 +8,4 @@ nav_order: 6
 calendar: true
 ---
 
-You can download my CV [here](/assets/pdf/CV - Sara Canilang - 2024.pdf).
+You can download my CV [here](/assets/pdf/Sara Canilang CV.pdf).
