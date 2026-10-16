@@ -28,7 +28,7 @@ latest_posts:
 
 I am a PhD Candidate in Economics at the [University of Minnesota](https://cla.umn.edu/economics) and a Research Analyst at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/).
 
-I expect to receive my PhD in May 2027. I earned my MA in Economics from the University of Minnesota in 2024 and my B.A. in Mathematics and Religion from Carleton College in 2019.
+I expect to receive my PhD in May 2027. I earned my MA in Economics from the University of Minnesota in 2024 and my BA in Mathematics and Religion from Carleton College in 2019.
 
 I am on the 2026-2027 job market. I earned my
 
