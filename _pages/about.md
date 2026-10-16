@@ -28,7 +28,7 @@ latest_posts:
 
 I am a Ph.D. Candidate in Economics at the [University of Minnesota](https://cla.umn.edu/economics) and a Research Analyst at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/).
 
-I will be on the 2026-2027 job market. 
+I am on the 2026-2027 job market. 
 
 I am working under the supervision of [Mariacristina De Nardi](https://users.nber.org/~denardim/), [Joseph Mullins](https://www.josephlyonmullins.com/), and [Amanda Michaud](https://ammichau.github.io/).
 
@@ -36,5 +36,6 @@ I am working under the supervision of [Mariacristina De Nardi](https://users.nbe
 - Household finance
 - Race and inequality
 - Labor Macroeconomics
+- Applied Microeconomics
 
 [LinkedIn](https://www.linkedin.com/in/sara-canilang/)
