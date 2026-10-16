@@ -26,13 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD Candidate in Economics at the [University of Minnesota](https://cla.umn.edu/economics) and a Research Analyst at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/).
+I am a PhD Candidate in Economics at the [University of Minnesota](https://cla.umn.edu/economics) and a Research Analyst at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/). I work under the supervision of [Mariacristina De Nardi](https://users.nber.org/~denardim/), [Joseph Mullins](https://www.josephlyonmullins.com/), and [Amanda Michaud](https://ammichau.github.io/).
 
 I expect to receive my PhD in May 2027. I earned my MA in Economics from the University of Minnesota in 2024 and my BA in Mathematics and Religion from Carleton College in 2019.
 
 I am on the 2026-2027 job market. 
-
-I am working under the supervision of [Mariacristina De Nardi](https://users.nber.org/~denardim/), [Joseph Mullins](https://www.josephlyonmullins.com/), and [Amanda Michaud](https://ammichau.github.io/).
 
 #### Research Interests:
 - Household finance
