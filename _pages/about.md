@@ -30,7 +30,7 @@ I am a PhD Candidate in Economics at the [University of Minnesota](https://cla.u
 
 I expect to receive my PhD in May 2027. I earned my MA in Economics from the University of Minnesota in 2024 and my BA in Mathematics and Religion from Carleton College in 2019.
 
-I am on the 2026-2027 job market. I earned my
+I am on the 2026-2027 job market. 
 
 I am working under the supervision of [Mariacristina De Nardi](https://users.nber.org/~denardim/), [Joseph Mullins](https://www.josephlyonmullins.com/), and [Amanda Michaud](https://ammichau.github.io/).
 
