@@ -35,7 +35,7 @@ I am on the 2026-2027 job market.
 #### Research Interests:
 - Household finance
 - Race and inequality
-- Labor Macroeconomics
+- Labor Economics
 - Applied Microeconomics
 
 [LinkedIn](https://www.linkedin.com/in/sara-canilang/)
