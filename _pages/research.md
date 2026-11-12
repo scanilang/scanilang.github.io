@@ -25,7 +25,8 @@ Racial differences in intervivos transfers between family members, including dif
 
 ##### Fed Speak Indicators 
 with [Amy Handlan]([https://ammichau.github.io/](https://sites.google.com/view/amy-handlan) and [Amanda Michaud](https://ammichau.github.io/).
-Draft Available On Request
+
+Draft Available On Request.
 
 Why do financial markets react to central bank communication when it mainly discusses publicly available data? We argue that the selection of which indicators to discuss is a choice that reveals how the central bank reads the state of the economy, and therefore signals its reaction function. Using Federal Reserve (Fed) statements, minutes, speeches, and transcripts, we document which labor market and inflation indicators the Fed selects over time and construct a measure we call spin: the reading of the state conveyed in communication relative to the full menu of available indicators. For individual communication, we show show that spin is predicted by a speaker's policy preference. To avoid a mechanical correlation, we create a new, state-independent measure of policy stance  with a multistage large-language-model procedure, which we validate against SEP projections and macroeconomic indicators. In Fed transcripts, hawks are more likely to cite hot labor market and inflation indicators, while doves are more likely to cite cool ones. Finally, in a short event window around FOMC policy statements, we find that a change in statement spin towards hotter signals (higher inflation and stronger labor markets) shifts up the Treasury yield curve, even when controlling for the policy rate change, market expectations, and other communication factors. In sum, indicator selection is thus a distinct channel of monetary policy communication.
 
