@@ -24,7 +24,7 @@ Racial differences in intervivos transfers between family members, including dif
 ## Works in Progress
 
 ##### Fed Speak Indicators 
-with [Amy Handlan]([https://ammichau.github.io/](https://sites.google.com/view/amy-handlan) and [Amanda Michaud](https://ammichau.github.io/).
+with [Amy Handlan](https://sites.google.com/view/amy-handlan) and [Amanda Michaud](https://ammichau.github.io/).
 
 Draft Available On Request.
 
